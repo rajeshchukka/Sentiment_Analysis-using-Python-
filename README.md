@@ -20,4 +20,5 @@ Run ``demo.py`` in terminal and it should start training
 
 ##Credits
 
-Credits for this code go to the [author](https://github.com/aymericdamien) of TFLearn and Siraj Raval. I've merely created a wrapper to get familiar with myself !
+Credits for this code go to the [author](https://github.com/aymericdamien) of TFLearn and Siraj Raval. I've merely created a wrapper around the code and tested to get familiarize with myself.
+
